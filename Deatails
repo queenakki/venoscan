@@ -1,0 +1,4 @@
+VenoScan web page using the CNN architechure's DenseNet model for predicting the venom of a snake. 
+IN this, I used the html, csv for fronted of 'VenoScan' page building.
+venoscan.pynb for backed working of the page, where this is stored in the .h5 file and connect the python file to intiate the web page server.
+
